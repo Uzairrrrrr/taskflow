@@ -93,7 +93,8 @@ taskflow/
 
 4. **Run the application**
    ```bash
-   uvicorn main:app --reload
+   cd backend/
+   python run.py
    ```
 
 5. **Access the application**
